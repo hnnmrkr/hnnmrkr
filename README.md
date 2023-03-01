@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Hanna-Marii 👋
 
-<!--
-**hnnmrkr/hnnmrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying at Tartu Rakenduslik Kolledž to become a junior software developer. Before that I worked as a graphic designer for 5 years.
 
-Here are some ideas to get you started:
+My passion motivates me to stay focused on getting better and better at the things I do. I love challenges and problem-solving. Besides coding I am skilled at graphic design and photography. You can check those out below in my e-portfolio.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**:earth_africa: Find me on the web:**
+<ul>
+  <li><a href="https://www.linkedin.com/in/hannamariik/" target="_blank">Here is my LinkedIn</a></li>
+  <li><a href="http://kriisahanna.ikt.khk.ee/veebiarendus/eportfoolio/" target="_blank">Here is my e-portfolio</a></li>
+</ul>
